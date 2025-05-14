@@ -43,18 +43,18 @@ adaptive-huffman-coding/
 1. Clone the repository:
    ```bash
       https://github.com/mariamelghandoor/Adaptive-Huffman-Coding-Compressor-with-Visualization.git
-
+   ```
 
 2. Navigate to the project directory:
    ```
     cd adaptive-huffman-coding
-
+   ```
 
 4. Compile and run:
    ```
     javac AdaptiveHuffman.java Encoder.java Decoder.java HuffmanTree.java Node.java AdaptiveHuffmanTest.java HuffmanTreeVisualizer.java
     java AdaptiveHuffman
-
+   ```
 
 5. Follow the menu to encode or decode a string, or run tests via java AdaptiveHuffmanTest.
 
