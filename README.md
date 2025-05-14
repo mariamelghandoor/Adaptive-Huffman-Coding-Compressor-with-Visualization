@@ -15,11 +15,34 @@ A Java program implementing adaptive Huffman coding for text compression and dec
 2. JavaFX SDK (included in Java 8, or configure separately for later versions)
 3. For Java 11+: Add VM options: --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls
 
+## Structure
+```
+adaptive-huffman-coding/
+├── .vscode/
+│   ├── launch.json
+│   └── settings.json
+├── bin/
+├── lib/
+├── src/
+│   ├── AdaptiveHuffman.java
+│   ├── Decoder.java
+│   ├── Encoder.java
+│   ├── HuffmanTree.java
+│   ├── Node.java
+├── test/
+│   └── AdaptiveHuffmanTest.java
+├── visualization/
+│   └── HuffmanTreeVisualizer.java
+├── Mini Project Report (1).pdf
+└── README.md
+
+```
+
 ## Usage
 
 1. Clone the repository:
    ```bash
-    git clone https://github.com/yourusername/adaptive-huffman-coding.git
+      https://github.com/mariamelghandoor/Adaptive-Huffman-Coding-Compressor-with-Visualization.git
 
 
 2. Navigate to the project directory:
