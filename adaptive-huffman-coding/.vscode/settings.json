@@ -1,0 +1,18 @@
+{
+  "java.project.sourcePaths": [
+    "src",
+    "test",
+    "visualization"
+  ],
+  "java.project.outputPath": "bin",
+  "java.project.referencedLibraries": [
+    "c:\\Users\\mariam\\Downloads\\openjfx-17.0.14_windows-x64_bin-sdk\\javafx-sdk-17.0.14\\lib\\javafx.fxml.jar",
+    "c:\\Users\\mariam\\Downloads\\openjfx-17.0.14_windows-x64_bin-sdk\\javafx-sdk-17.0.14\\lib\\javafx.graphics.jar",
+    "c:\\Users\\mariam\\Downloads\\openjfx-17.0.14_windows-x64_bin-sdk\\javafx-sdk-17.0.14\\lib\\javafx.media.jar",
+    "c:\\Users\\mariam\\Downloads\\openjfx-17.0.14_windows-x64_bin-sdk\\javafx-sdk-17.0.14\\lib\\javafx.swing.jar",
+    "c:\\Users\\mariam\\Downloads\\openjfx-17.0.14_windows-x64_bin-sdk\\javafx-sdk-17.0.14\\lib\\javafx.web.jar",
+    "c:\\Users\\mariam\\Downloads\\openjfx-17.0.14_windows-x64_bin-sdk\\javafx-sdk-17.0.14\\lib\\javafx.base.jar",
+    "c:\\Users\\mariam\\Downloads\\openjfx-17.0.14_windows-x64_bin-sdk\\javafx-sdk-17.0.14\\lib\\javafx.controls.jar",
+    "c:\\Users\\mariam\\Downloads\\openjfx-17.0.14_windows-x64_bin-sdk\\javafx-sdk-17.0.14\\lib\\javafx-swt.jar"
+  ]
+}
